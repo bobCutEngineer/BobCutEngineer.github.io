@@ -1515,7 +1515,7 @@ pre .javascript .function {
 }
 @media (min-width: 1200px) {
   .post-body {
-    font-size: 0.9em;
+    font-size: 11pt;
   }
 }
 .post-body .exturl .fa {
